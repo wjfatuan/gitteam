@@ -6,9 +6,13 @@
 2. Confiabilidad y seguridad
   - Requerimientos de Confiabilidad
   - Requerimientos de seguridad
-  - Analisis de riesgos de seguridad
+  - Análisis de riesgos de seguridad
 3. Desarrollo de aplicaciones web
   - Desarrollo backend
      - Desarrollo con Python y Django
      - Desarrollo con Java y Spring
      - Desarrollo con nodejs y express
+  - Desarrollo frontend 
+    - Desarrollo con React
+    - Desarrollo con Angular
+    - Desarrollo con Vue.js
