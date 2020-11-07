@@ -1,10 +1,14 @@
-1. Repaso de ingenieria de software 1
+1. Repaso de ingeniería de software 1
   - Procesos de desarrollo de software 
-  - Analisis de requerimientos
+  - Análisis de requerimientos
   - UML
   - Casos de uso e historias de usuario
 2. Confiabilidad y seguridad
   - Requerimientos de Confiabilidad
   - Requerimientos de seguridad
-  - Analisis de riesgos de seguridad
+  - Análisis de riesgos de seguridad
 3. Desarrollo de aplicaciones web
+  - Desarrollo frontend 
+    - Desarrollo con React
+    - Desarrollo con Angular
+    - Desarrollo con Vue.js
